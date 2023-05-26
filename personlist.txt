@@ -1,0 +1,20 @@
+Osama Bin Laden : 0.1
+Joe Biden : 0.5
+Donald Trump : 0.4
+Jacob Jagodzinski : 0.9
+Tenny Dibooglu : 0.8
+Abheekus Dhawanus : 0.8
+Aiden Lambert : 0.8
+Barack Obama : 0.6
+Geoswar Quan : 0.3
+Kevin Tang : 0.2
+Chad : 0.9
+Rex Rice : 0.2
+Karl Marx : 0.3
+Mao Zedong : 0.2
+Adolf Hitler : 0.1
+General Zachary Taylor : 0.5
+Abraham Lincoln : 0.7
+Garrett White : 0.6
+Finger(kid named finger) : 0.9
+Kowalski : 0.7
